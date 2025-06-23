@@ -7,11 +7,11 @@
   3) Used if-else and "in" membership operator to find whether the name is on the list
 
   ### Output:
-    1) If the name entered by the user is on the list:
+  1) If the name entered by the user is on the list:
      
-     Enter the name of the student: Raman
+         Enter the name of the student: Raman
 
-     Raman's Marks = 90
+         Raman's Marks = 90
 
   2) If the name entered by the user isn't on the list:
      
