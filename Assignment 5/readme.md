@@ -10,13 +10,11 @@
   1) If the name entered by the user is on the list:
      
          Enter the name of the student: Raman
-
          Raman's Marks = 90
 
   2) If the name entered by the user isn't on the list:
      
          Enter the name of the student: Amaan
-     
          No one by that name is on the list.  
 
 ## Task 2
