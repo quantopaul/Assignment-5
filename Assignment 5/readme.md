@@ -7,7 +7,7 @@
   3) Used if-else and "in" membership operator to find whether the name is on the list
 
   ### Output:
-  1) If the name entered by the user is on the list:
+    1) If the name entered by the user is on the list:
      
      Enter the name of the student: Raman
 
@@ -15,9 +15,9 @@
 
   2) If the name entered by the user isn't on the list:
      
-     Enter the name of the student: Amaan
+         Enter the name of the student: Amaan
      
-     No one by that name is on the list.  
+         No one by that name is on the list.  
 
 ## Task 2
    1) "l" variable to store list of numbers from 1 to 10
