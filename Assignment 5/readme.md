@@ -29,7 +29,8 @@
    1) "l" variable to store list of numbers from 1 to 10
    
    2) "sub" variable to store extracted list so that its easy to reverse
-       so I just need to reverse the extracted one.
+
+      the extracted one.
 
 ### Code used
     l=[1,2,3,4,5,6,7,8,9,10]
