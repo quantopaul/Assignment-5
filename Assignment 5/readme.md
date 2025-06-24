@@ -28,7 +28,7 @@
 ## Task 2
    1) "l" variable to store list of numbers from 1 to 10
    
-   2) "sub" variable to store extracted list so that its easy to reverse
+   2) "sub" variable to store extracted list and that makes it easier to reverse
        the extracted one.
 
 ### Code used
