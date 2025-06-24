@@ -29,11 +29,13 @@
 
 ### Code used
     l=[1,2,3,4,5,6,7,8,9,10]
+    print("The original list:",l)
     sub=l[:5]
     print("Extracted list:",sub)
     sub.reverse()
     print("reverse of extracted list:",sub)
 
   ### Output:
+      The original list: [1,2,3,4,5,6,7,8,9,10]
       Extracted list: [1, 2, 3, 4, 5]
       reverse of extracted list: [5, 4, 3, 2, 1]
